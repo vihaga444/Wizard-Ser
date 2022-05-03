@@ -184,8 +184,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┊☞ 🧭 *TIME* : ${time},
 ┊☞ 💫 *WEEK* : ${week},
 ┊☞ ✅ *DATE* : ${date},
-┊☞ 💝 *OWNER* : ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ
-┊☞ 🖌️ *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
+┊☞ 💝 *OWNER* : ᴛͥʜɪᴋⷶsᴀɴͫᴀ
+┊☞ 🖌️ *PREFIX* : ʙᷝᴇɴͤɴʏⷶᴡͩɪsͤᴇͬ™
 ┊☞ ☮️ *BOT NAME* : ᴡɪᴢᴀʀᴅ sᴇʀ
 └─────────────────⸙ \n\ ______`
           
@@ -197,11 +197,11 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `WIZARD SER`,
-                  "description": "Wizard ser git link",
+                  "title": `Hi තීක්ෂණ❤`,
+                  "description": "https://youtube.com/channel/UCayoBJWM9lqcP8qr_xf8X8g",
                   "rowId": ".git"
                 }, {
-                  "title": "💻Game",
+                  "title": "🎮Game",
                   "description": "Game features",
                   "rowId": ".? game"
 
@@ -211,12 +211,12 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "rowId": ".? xp"
 
                 },  {
-                  "title": "Video Maker",
+                  "title": "🎥Video Maker",
                   "description": "Making Different Types Of Videos",
                   "rowId": ".? .videomaker"
 
                 },{
-                  "title": "Sticker",
+                  "title": "⛺Sticker",
                   "description": "Features for making stickers",
                   "rowId": ".? stiker"
                 }, { 
@@ -224,15 +224,15 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                 "description": "Anime Related Plugin",
                 "rowId": ".? anime"
               },  {
-                  "title": "Quotes",
+                  "title": "🎭Quotes",
                   "description": "Gives You random quotes",
                   "rowId": ".? quote"
                 }, {
-                  "title": "Admin",
+                  "title": "👑Admin",
                   "description": "Group Admin Commands",
                   "rowId": ".? admin"
                 }, {
-                  "title": "Grup",
+                  "title": "👥Grup",
                   "description": "Group Related Commands",
                   "rowId": ".? grup"
                 }, {
@@ -256,7 +256,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "description": "Text Maker Coammnds",
                   "rowId": ".? nulis"
                 }, {
-                  "title": "Downloader",
+                  "title": "⬇Downloader",
                   "description": "Downloading Commnds",
                   "rowId": ".? downloader"
                 }, {
@@ -276,9 +276,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "description": "User database",
                   "rowId": ".? database"
                 },{
-                  "title": "Owner",
-                  "description": "Owner's special features",
-                  "rowId": ".? owner"
+                  "title": "මගේ Group එක ",
+                  "description": "https://chat.whatsapp.com/KKeNFrrJlna5kF9caSnBiK",
+                  "rowId": ".emo"
                 }
               ]
             }
